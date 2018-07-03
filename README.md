@@ -75,7 +75,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 [ ][Episode #059 - Background Jobs with Sidekiq 8:37]()
 [ ][Episode #060 - Sidekiq on Production]()
 [ ][Episode #061 - Periodic Tasks with sidekiq-cron]()
-[ ][Episode #062 - Security and Static Code Analyzers](https://www.youtube.com/watch?v=HYGuCettuGA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr&index=77)
+[x][Episode #062 - Security and Static Code Analyzers](https://www.youtube.com/watch?v=HYGuCettuGA&list=PLoQwKu-bfLSZ6kkTy48Vdt6IJqYUaPjKr&index=77)
 [ ][Episode #063 - Client Side Encryption]()
 [ ][Episode #064 - Ruby Tips and Tricks]()
 [ ][Episode #065 - Searchkick and Elasticsearch]()
